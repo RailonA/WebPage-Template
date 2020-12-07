@@ -8,16 +8,14 @@ This project aims to clone The Newsweek home page using HTML, CSS and Bootstrap 
 
 > The Desktop version :
  
-![screenshot](./images/screenshot-desk.png)
+![screenshot]( ... )
 
 > The Tablet version :
 
-![screenshot](./images/screenshot-tab.jpg)
-
+![screenshot]( ... )
 > The Mobil version :
 
-![screenshot](./images/screenshot-mob.jpg)
-
+![screenshot]( ... )
 ## Built With
 
 - HTML5
@@ -26,7 +24,7 @@ This project aims to clone The Newsweek home page using HTML, CSS and Bootstrap 
 
 ## Live Demo
 
-[Live Demo Link](https://railona.github.io/BootStrap-Page-Newsweek/)
+[Live Demo Link]( ... )
 
 
 
@@ -55,7 +53,7 @@ or
 
 1- Clone the repository
 ```
- $ git clone git@github.com:RailonA/BootStrap-Page-Newsweek.git
+ $ git clone ...
 ```
 
 2- Open the folder on VS Code, right click the index.html file and click on "Open With Live Server"
@@ -77,7 +75,7 @@ or
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/RailonA/BootStrap-Page-Newsweek/issues).
+Feel free to check the [issues page]( ... ).
 
 ## Show your support
 
