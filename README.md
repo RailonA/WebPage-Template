@@ -4,7 +4,8 @@
 
 # WebPage-Template
 
-This project aims to clone The Newsweek home page using HTML, CSS and Bootstrap for the responsiveness (https://www.newsweek.com/) 
+( PROJECT EXPLAINATION )
+
 
 > The Desktop version :
  
